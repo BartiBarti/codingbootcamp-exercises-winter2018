@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    font-size: 1.125rem;
+    background-color: #9e6f6f;
+
+    font-family: "Trebuchet MS", sans-serif;
+    -webkit-transition: 2s;
+    transition: 2s;
+color: #105672;
+    }
+    
+h1 {
+    font-size: 3rem;
+    }
+    
+h2 {
+    font-size: 1.5rem;
+
+    }
+h3 {
+    line-height: 40px;
+}
+.center{
+    text-align: center;
+    margin : 0 30%;
+
+}
+
+.bar{ background-color: beige;
+    color: blue;
+    
+    
+
+
+}
+
+button {
+    border-radius: 4px;
+    font-size: 1.25rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid white;
+    background-color: rgb(223, 35, 35);
+    }
+    
+button:hover{
+    background-color: blue;
+}
+
+img {
+    width: 50%;
+}
