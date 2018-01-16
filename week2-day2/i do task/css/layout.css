@@ -1,0 +1,10 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+container {
+    width: 992px;
+    margin: auto;
+}
